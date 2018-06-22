@@ -2,3 +2,4 @@
 
 # Espeon
 Backend API for Umbreon front-end project
+Utilizing GraphQL, Node
