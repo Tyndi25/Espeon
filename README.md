@@ -3,4 +3,4 @@
 # Espeon
 API for Umbreon project
 
-Utilizing GraphQL, Node
+Utilizing GraphQL, Node, MongoDB
